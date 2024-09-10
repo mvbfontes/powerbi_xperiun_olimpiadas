@@ -27,6 +27,7 @@ Benin,BJ,BEN,https://www.worldometers.info//img/flags/small/tn_bn-flag.gif
 Bhutan,BT,BTN,https://www.worldometers.info//img/flags/small/tn_bt-flag.gif
 Bhutan,BT,BHU,https://www.worldometers.info//img/flags/small/tn_bt-flag.gif
 Bolivia (Plurinational State of),BO,BOL,https://www.worldometers.info//img/flags/small/tn_bl-flag.gif
+Bolivia,BO,BOL,https://www.worldometers.info//img/flags/small/tn_bl-flag.gif
 Bosnia and Herzegovina,BA,BIH,https://www.worldometers.info//img/flags/small/tn_bk-flag.gif
 Botswana,BW,BWA,https://www.worldometers.info//img/flags/small/tn_bc-flag.gif
 Botswana,BW,BOT,https://www.worldometers.info//img/flags/small/tn_bc-flag.gif
@@ -44,13 +45,16 @@ Cambodia,KH,CAM,https://www.worldometers.info//img/flags/small/tn_cb-flag.gif
 Cameroon,CM,CMR,https://www.worldometers.info//img/flags/small/tn_cm-flag.gif
 Canada,CA,CAN,https://www.worldometers.info//img/flags/small/tn_ca-flag.gif
 Central African Republic (the),CF,CAF,https://www.worldometers.info//img/flags/small/tn_ct-flag.gif
+Central African Republic,CF,CAF,https://www.worldometers.info//img/flags/small/tn_ct-flag.gif
 Chad,TD,TCD,https://www.worldometers.info//img/flags/small/tn_cd-flag.gif
 Chile,CL,CHL,https://www.worldometers.info//img/flags/small/tn_ci-flag.gif
 Chile,CL,CHI,https://www.worldometers.info//img/flags/small/tn_ci-flag.gif
 China,CN,CHN,https://www.worldometers.info//img/flags/small/tn_ch-flag.gif
+People's Republic of China,CN,CHN,https://www.worldometers.info//img/flags/small/tn_ch-flag.gif
 Colombia,CO,COL,https://www.worldometers.info//img/flags/small/tn_co-flag.gif
 Comoros (the),KM,COM,https://www.worldometers.info//img/flags/small/tn_cn-flag.gif
 Congo (the Democratic Republic of the),CD,COD,https://www.worldometers.info//img/flags/small/tn_congo-flag.gif
+Democratic Republic of the Congo,CD,COD,https://www.worldometers.info//img/flags/small/tn_congo-flag.gif
 Congo (the),CG,COG,https://www.worldometers.info//img/flags/small/tn_cg-flag.gif
 Congo (the),CG,CGO,https://www.worldometers.info//img/flags/small/tn_cg-flag.gif
 Costa Rica,CR,CRI,https://www.worldometers.info//img/flags/small/tn_cs-flag.gif
@@ -63,6 +67,7 @@ Denmark,DK,DNK,https://www.worldometers.info//img/flags/small/tn_da-flag.gif
 Djibouti,DJ,DJI,https://www.worldometers.info//img/flags/small/tn_dj-flag.gif
 Dominica,DM,DMA,https://www.worldometers.info//img/flags/small/tn_do-flag.gif
 Dominican Republic (the),DO,DOM,https://www.worldometers.info//img/flags/small/tn_dr-flag.gif
+Dominican Republic,DO,DOM,https://www.worldometers.info//img/flags/small/tn_dr-flag.gif
 Ecuador,EC,ECU,https://www.worldometers.info//img/flags/small/tn_ec-flag.gif
 Egypt,EG,EGY,https://www.worldometers.info//img/flags/small/tn_eg-flag.gif
 El Salvador,SV,SLV,https://www.worldometers.info//img/flags/small/tn_es-flag.gif
@@ -94,6 +99,7 @@ Iceland,IS,ISL,https://www.worldometers.info//img/flags/small/tn_ic-flag.gif
 India,IN,IND,https://www.worldometers.info//img/flags/small/tn_in-flag.gif
 Indonesia,ID,IDN,https://www.worldometers.info//img/flags/small/tn_id-flag.gif
 Iran (Islamic Republic of),IR,IRN,https://www.worldometers.info//img/flags/small/tn_ir-flag.gif
+Islamic Republic of Iran,IR,IRI,https://www.worldometers.info//img/flags/small/tn_ir-flag.gif
 Iran,IR,IRI,https://www.worldometers.info//img/flags/small/tn_ir-flag.gif
 Iraq,IQ,IRQ,https://www.worldometers.info//img/flags/small/tn_iz-flag.gif
 Ireland,IE,IRL,https://www.worldometers.info//img/flags/small/tn_ei-flag.gif
@@ -106,7 +112,9 @@ Kazakhstan,KZ,KAZ,https://www.worldometers.info//img/flags/small/tn_kz-flag.gif
 Kenya,KE,KEN,https://www.worldometers.info//img/flags/small/tn_ke-flag.gif
 Kiribati,KI,KIR,https://www.worldometers.info//img/flags/small/tn_kr-flag.gif
 Korea (the Democratic People's Republic of),KP,PRK,https://www.worldometers.info//img/flags/small/tn_kn-flag.gif
+Democratic People's Republic of Korea,KP,PRK,https://www.worldometers.info//img/flags/small/tn_kn-flag.gif
 Korea (the Republic of),KR,KOR,https://www.worldometers.info//img/flags/small/tn_ks-flag.gif
+Republic of Korea,KR,KOR,https://www.worldometers.info//img/flags/small/tn_ks-flag.gif
 Kuwait,KW,KWT,https://www.worldometers.info//img/flags/small/tn_ku-flag.gif
 Kyrgyzstan,KG,KGZ,https://www.worldometers.info//img/flags/small/tn_kg-flag.gif
 Lao People's Democratic Republic (the),LA,LAO,https://www.worldometers.info//img/flags/small/tn_la-flag.gif
@@ -143,6 +151,7 @@ Namibia,NA,NAM,https://www.worldometers.info//img/flags/small/tn_wa-flag.gif
 Nauru,NR,NRU,https://www.worldometers.info//img/flags/small/tn_nr-flag.gif
 Nepal,NP,NPL,https://www.worldometers.info//img/flags/small/tn_np-flag.gif
 Netherlands (the),NL,NLD,https://www.worldometers.info//img/flags/small/tn_nl-flag.gif
+Netherlands,NL,NLD,https://www.worldometers.info//img/flags/small/tn_nl-flag.gif
 New Zealand,NZ,NZL,https://www.worldometers.info//img/flags/small/tn_nz-flag.gif
 Nicaragua,NI,NIC,https://www.worldometers.info//img/flags/small/tn_nu-flag.gif
 Niger (the),NE,NER,https://www.worldometers.info//img/flags/small/tn_ng-flag.gif
@@ -200,6 +209,7 @@ Tonga,TO,TON,https://www.worldometers.info//img/flags/small/tn_tn-flag.gif
 Trinidad and Tobago,TT,TTO,https://www.worldometers.info//img/flags/small/tn_td-flag.gif
 Tunisia,TN,TUN,https://www.worldometers.info//img/flags/small/tn_ts-flag.gif
 Turkey,TR,TUR,https://www.worldometers.info//img/flags/small/tn_tu-flag.gif
+Türkiye,TR,TUR,https://www.worldometers.info//img/flags/small/tn_tu-flag.gif
 Turkmenistan,TM,TKM,https://www.worldometers.info//img/flags/small/tn_tx-flag.gif
 Tuvalu,TV,TUV,https://www.worldometers.info//img/flags/small/tn_tv-flag.gif
 Uganda,UG,UGA,https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
@@ -208,10 +218,12 @@ United Arab Emirates (the),AE,ARE,https://www.worldometers.info//img/flags/small
 United Arab Emirates,AE,UAE,https://www.worldometers.info//img/flags/small/tn_ae-flag.gif
 United Kingdom of Great Britain and Northern Ireland (the),GB,GBR,https://www.worldometers.info//img/flags/small/tn_uk-flag.gif
 United States of America (the),US,USA,https://www.worldometers.info//img/flags/small/tn_us-flag.gif
+United States of America,US,USA,https://www.worldometers.info//img/flags/small/tn_us-flag.gif
 Uruguay,UY,URY,https://www.worldometers.info//img/flags/small/tn_uy-flag.gif
 Uzbekistan,UZ,UZB,https://www.worldometers.info//img/flags/small/tn_uz-flag.gif
 Vanuatu,VU,VUT,https://www.worldometers.info//img/flags/small/tn_nh-flag.gif
 Venezuela (Bolivarian Republic of),VE,VEN,https://www.worldometers.info//img/flags/small/tn_ve-flag.gif
+Venezuela,VE,VEN,https://www.worldometers.info//img/flags/small/tn_ve-flag.gif
 Viet Nam,VN,VNM,https://www.worldometers.info//img/flags/small/tn_vm-flag.gif
 Yemen,YE,YEM,https://www.worldometers.info//img/flags/small/tn_ym-flag.gif
 Zambia,ZM,ZMB,https://www.worldometers.info//img/flags/small/tn_za-flag.gif
