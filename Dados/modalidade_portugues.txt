@@ -1,0 +1,87 @@
+modalidade_en,modalidade_pt
+3x3 Basketball,Basquete 3x3
+Alpine Skiing,Esqui Alpino
+Archery,Tiro com Arco
+Artistic Gymnastics,Ginástica Artística
+Artistic Swimming,Nado Sincronizado
+Athletics,Atletismo
+Badminton,Badminton
+Baseball,Baseball
+Baseball/Softball,Baseball/Softball
+Basketball,Basquete
+Basque Pelota,Pelota Basca
+Beach Volleyball,Vôlei de Praia
+Biathlon,Biatlo
+Bobsleigh,Bobsleigh
+Boxing,Boxe
+Canoe Marathon,Canoagem maratona
+Canoe Slalom,Canoagem slalom
+Canoe Sprint,Canoagem de velocidade
+Cricket,Cricket
+Croquet,Cróquete
+Cross Country Skiing,Esqui Cross-Country
+Curling,Curling
+Cycling BMX,Ciclismo BMX
+Cycling BMX Freestyle,Ciclismo BMX Freestyle
+Cycling BMX Racing,Ciclismo BMX Racing
+Cycling Mountain Bike,Ciclismo Mountain Bike
+Cycling Road,Ciclismo de Estrada
+Cycling Track,Ciclismo de Pista
+Diving,Salto Ornamental
+Equestrian,Hipismo
+Equestrian  Vaulting,Hipismo Volteio Artístico
+Equestrian Dressage,Hipismo Adestramento
+Equestrian Eventing,Hipismo CCE
+Equestrian Jumping,Hipismo Salto
+Fencing,Esgrima
+Figure skating,Skate
+Football,Futebol
+Freestyle Skiing,Esqui Estilo Livre
+Golf,Golfe
+Gymnastics Artistic,Ginástica Artística
+Gymnastics Rhythmic,Ginástica Rítmica
+Handball,Handebol
+Hockey,Hóquei
+Ice Hockey,Hóquei no Gelo
+Jeu de Paume,Jeu de paume
+Judo,Judô
+Karate,Karatê
+Lacrosse,Lacrosse
+Luge,Luge
+Marathon Swimming,Maratona Aquática
+Military Patrol,Patrulha Militar
+Modern Pentathlon,Pentatlo Moderno
+Nordic Combined,Combinado Nórdico
+Polo,Pólo
+Rackets,Rackets
+Rhythmic Gymnastics,Ginástica Rítmica
+Roque,Roque
+Rowing,Remo
+Rugby,Rugby
+Rugby Sevens,Rugby de Sete
+Sailing,Vela
+Shooting,Tiro Esportivo
+Short Track,Patinação de Velocidade em Pista Curta
+Short Track Speed Skating,Patinação de Velocidade em Pista Curta
+Skateboarding,Skate
+Skeleton,Skeleton
+Ski Jumping,Salto de Esqui
+Snowboard,Snowboard
+Softball,Softball
+Speed skating,Patinação de Velocidade
+Sport Climbing,Escalada Esportiva
+Surfing,Surfe
+Swimming,Natação
+Synchronized Swimming,Nado Sincronizado
+Table Tennis,Tênis de Mesa
+Taekwondo,Taekwondo
+Tennis,Tênis
+Trampoline,Ginástica de Trampolim
+Trampoline Gymnastics,Ginástica de Trampolim
+Triathlon,Triatlo
+Tug of War,Cabo de Guerra
+Volleyball,Vôlei
+Water Motorsports,Motonáutica
+Water Polo,Polo Aquático
+Weightlifting,Levantamento de Peso
+Wrestling,Wrestling
