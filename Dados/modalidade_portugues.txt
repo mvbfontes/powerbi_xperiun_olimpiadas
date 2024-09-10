@@ -1,5 +1,6 @@
 modalidade_en,modalidade_pt
 3x3 Basketball,Basquete 3x3
+Basketball 3x3,Basquete 3x3
 Alpine Skiing,Esqui Alpino
 Archery,Tiro com Arco
 Artistic Gymnastics,Ginástica Artística
@@ -14,6 +15,7 @@ Beach Volleyball,Vôlei de Praia
 Biathlon,Biatlo
 Bobsleigh,Bobsleigh
 Boxing,Boxe
+Breaking,Breaking
 Canoe Marathon,Canoagem maratona
 Canoe Slalom,Canoagem slalom
 Canoe Sprint,Canoagem de velocidade
