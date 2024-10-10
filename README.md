@@ -10,6 +10,10 @@ Base de dados:
 
 https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games
 
+Link da live do Youtube com vencedores:
+
+https://www.youtube.com/watch?v=ZlBlrrag4XA
+
 
 
 
